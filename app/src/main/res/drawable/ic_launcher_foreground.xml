@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Popředí adaptivní ikony: šipky nahoru/dolů v bezpečné zóně (66 dp uprostřed 108 dp). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,32 L56,46 L48,46 L48,76 L40,76 L40,46 L32,46 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,76 L52,62 L60,62 L60,32 L68,32 L68,62 L76,62 Z" />
+</vector>
